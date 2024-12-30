@@ -26,3 +26,4 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou 
 ![Estatísticas do GitHub de Guilherme](https://github-readme-stats.vercel.app/api?username=GuilhermeFer29&show_icons=true&theme=radical)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFer29&layout=compact&theme=radical)
+
