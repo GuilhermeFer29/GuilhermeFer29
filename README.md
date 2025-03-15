@@ -6,7 +6,11 @@
 
 ## Sobre Mim
 
-Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de sistemas, com foco especial em Python. Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas habilidades.
+Sou um desenvolvedor com experiência em Python, especializado na criação de dashboards interativos para análise de dados comerciais. Atualmente, estou aprofundando meus conhecimentos em modelos de linguagem (LLMs) através de um Bootcamp na Soulcode, focado no desenvolvimento e aplicação dessas tecnologias.
+
+Dashboards Interativos: Utilização de ferramentas como Streamlit, Plotly e pandas para criar interfaces intuitivas e dinâmicas.
+Análise de Dados: Desenvolvimento de soluções que auxiliam na tomada de decisão por meio de visualizações informativas e KPI’s estratégicos.
+LLMs e IA: Aprendizado e implementação de modelos de linguagem para otimizar processos e automação.
 
 ## Projetos em Destaque
 
