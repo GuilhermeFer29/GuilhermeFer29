@@ -6,7 +6,9 @@ Olá! Sou Guilherme Fernandes, apaixonado por tecnologia e resolução de proble
 
 Atualmente, estou aprofundando meus conhecimentos em Modelos de Linguagem (LLMs) e Automação, participando de um Bootcamp na Soulcode, onde desenvolvo projetos com Machine Learning, APIs Inteligentes e Web Apps Dinâmicos.
 
-🛠 Habilidades Técnicas
+---
+
+## 🛠 Habilidades Técnicas
 🐍 Python | 🗄️ SQL | 📊 Pandas & NumPy | 🎨 Streamlit | ⚡ FastAPI | 🔍 OpenAI | ⚙️ Git/GitHub
 
 ---
@@ -48,3 +50,4 @@ Atualmente, estou aprofundando meus conhecimentos em Modelos de Linguagem (LLMs)
 📧 **Email:** leciguilherme@gmail.com  
 
 Vamos conectar e construir algo incrível juntos! 🚀
+
