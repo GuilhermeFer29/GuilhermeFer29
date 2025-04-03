@@ -1,6 +1,13 @@
 # 👋 Olá! Eu sou Guilherme Fernandes Do Bem
 
-🚀 Estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta de **Engenharia de Dados**, focado em transformar dados em insights valiosos.
+💻 Desenvolvedor Python | 📊 Análise de Dados | 🤖 IA & Automação | 🚀 Buscando minha primeira oportunidade
+
+Olá! Sou Guilherme Fernandes, apaixonado por tecnologia e resolução de problemas. Estou cursando Análise e Desenvolvimento de Sistemas e focado em Python, Inteligência Artificial e Análise de Dados para criar soluções eficientes e inovadoras.
+
+Atualmente, estou aprofundando meus conhecimentos em Modelos de Linguagem (LLMs) e Automação, participando de um Bootcamp na Soulcode, onde desenvolvo projetos com Machine Learning, APIs Inteligentes e Web Apps Dinâmicos.
+
+🛠 Habilidades Técnicas
+🐍 Python | 🗄️ SQL | 📊 Pandas & NumPy | 🎨 Streamlit | ⚡ FastAPI | 🔍 OpenAI | ⚙️ Git/GitHub
 
 ---
 
