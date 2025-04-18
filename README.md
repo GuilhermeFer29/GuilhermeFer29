@@ -43,7 +43,12 @@ Atualmente, estou aprofundando meus conhecimentos em Modelos de Linguagem (LLMs)
 
 ---
 
+![Total de Commits](https://github-readme-stats.vercel.app/api?username=GuilhermeFer29&include_all_commits=true&count_private=true&hide=prs,issues,stars,contribs&hide_rank=true&show_icons=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFer29&layout=compact&theme=radical)
+
 ## 📫 Contato
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-fernandes-do-bem/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeFer29)  
