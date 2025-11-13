@@ -74,18 +74,6 @@ Sou movido a desafios reais, arquitetura limpa e soluções que geram impacto de
 
 # 🚀 Projetos em Destaque
 
----
-
-## 🟣 **IODO Agent – Pipeline Completo de IA**
-Sistema modular com FastAPI integrando:
-- Transcrição inteligente (whisper/faster-whisper)
-- LLM Agents (CrewAI/Agno)
-- Geração automática de thumbnails via Figma API
-- WebSockets + Caching + Pipeline de automação
-
-🔗 *Repositório privado / versão pública em construção*
-
----
 
 ## 🟢 **Automator Mercado Agro – Sistema de Conteúdo com IA**
 Pipeline multi-tenant incluindo:
@@ -100,18 +88,10 @@ Pipeline multi-tenant incluindo:
 - Modelos LightGBM, XGBoost, Prophet  
 - Feature engineering completo  
 - ETL + SQLModel  
-- Automação de ordens de compra  
+- Automação de ordens de compra
+- ---
 
----
 
-## 🟡 **Automação Inteligente de Thumbnails – Figma API + LLM**
-Sistema automático que:
-- Extrai frame do vídeo  
-- Gera título via IA  
-- Envia para Figma API  
-- Renderiza automaticamente a thumbnail  
-
----
 
 # 📦 Outros Repositórios
 
